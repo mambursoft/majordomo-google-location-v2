@@ -1,0 +1,12 @@
+{
+  "name": "googleconnection",
+  "title": "Google Connection v2",
+  "module_name": "google_location",
+  "version": "2.0.0",
+  "category": "applications",
+  "author": "mambursoft",
+  "support": "https://github.com/mambursoft/majordomo-google-connection-v2/issues",
+  "repository": "https://github.com/mambursoft/majordomo-google-connection-v2",
+  "min_php": "7.3",
+  "languages": ["en", "ru", "uk"]
+}

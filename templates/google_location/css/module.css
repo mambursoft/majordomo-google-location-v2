@@ -1,0 +1,5 @@
+:root { --gl-card-bg: var(--mj-color-surface,#f5f5f5); --gl-card-fg: var(--mj-color-fg,#333); --gl-border: var(--mj-color-border,#ddd); --gl-touch:44px; }
+.gl-card{box-sizing:border-box;border:1px solid var(--gl-border);border-radius:6px;background:var(--gl-card-bg);color:var(--gl-card-fg);padding:12px;margin-bottom:12px;overflow-wrap:anywhere}
+.gl-card .btn,.gl-card input,.gl-card select{min-height:var(--gl-touch)}
+:root[data-theme="dark"] .gl-card{background:var(--mj-color-surface,#2b2b2b);color:var(--mj-color-fg,#e6e6e6);border-color:var(--mj-color-border,#444)}
+@media(max-width:767px){.gl-card{padding:10px}.gl-card .btn{width:100%}}

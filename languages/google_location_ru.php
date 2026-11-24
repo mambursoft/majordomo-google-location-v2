@@ -37,3 +37,6 @@ foreach ($dictionary as $k => $v) {
         define('LANG_' . $k, $v);
     }
 }
+
+if (!defined('LANG_GL_MANUAL')) define('LANG_GL_MANUAL', 'Мануал');
+if (!defined('LANG_GL_MANUAL_FULL')) define('LANG_GL_MANUAL_FULL', 'Полный мануал');
