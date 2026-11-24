@@ -5,10 +5,10 @@
  <title_ru>Google Connection v2</title_ru>
  <category>applications</category>
  <author>mambursoft</author>
- <url>https://github.com/mambursoft/majordomo-google-connection-v2</url>
+ <url>https://github.com/mambursoft/majordomo-google-location-v2</url>
  <version>2.0.0</version>
  <description>Google Connection v2 for MajorDoMo</description>
  <description_ru>Модуль геолокации для MajorDoMo с адаптивным интерфейсом и локализацией en/ru/uk.</description_ru>
- <support>https://github.com/mambursoft/majordomo-google-connection-v2/issues</support>
+ <support>https://github.com/mambursoft/majordomo-google-location-v2/issues</support>
  <requires><module>app_gpstrack</module></requires>
 </module>
